@@ -1,8 +1,18 @@
-## Hi there 👋 I'm anushka
-## <!--Welcome! I'm a developer focused on building scalable applications, writing clean code, and continuously expanding my technical toolkit. I love the logic of programming and the creativity of software design.
+# Hi there 👋 I'm anushka
 
-## - 🔭 Current Goals: Building full-stack projects and contributing to open-source.
-## -🌱 Expanding Skillset: Deep-diving into Data Architecture, Creative Coding, and the intersection of Algorithmic Logic and Design.
-## - 💬 Ask me about: Interactive web stuff, data chaos, or whatever random AI project I'm currently really hyperfixated on.
-## - 🎯 Interests: Trying to translate dense research papers into weird side projects and finding tech inspiration in random places.
-## - 📫 How to reach me: anushkasingh2526@gmail.com
+## I'm a developer focused on building scalable applications, writing clean code, and continuously trying to expand my technical toolkit. I adore the logic of programming and the creativity of software design.
+
+### ⚔️ CHECK OUT MY NEW THING
+I just finished building **MindClash**—an intense, arcade-style adversarial debate arena where you fight aggressive AI personas who refuse to agree with you. It uses a parallel dual-agent architecture (Gemini API) and is designed to destroy chatbot sycophancy. 
+👉 [**Enter the Arena (Live Demo)**](https://mind-clash-livid.vercel.app/) | [**View the Repository**](https://github.com/anushkasingh-code/mindclash)
+
+---
+
+- 🔭 **Current Hyperfixation:** Building creative web setups and full-stack projects.
+- 🌱 **Learning:** Deep-diving into Data Architecture and creative coding.
+- 💬 **Ask me about:** Interactive web stuff or whatever random AI project I'm currently really fascinated with.
+- 🎯 **Vibe:** Translating dense concepts into interactive creative projects and avoiding robot culture at all costs.
+
+📬 **Reach out:** anushkaasingh1402@gmail.com
+
+
