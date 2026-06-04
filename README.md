@@ -1,18 +1,48 @@
-# Hi there 👋 I'm anushka
+# Hi! I'm Anushka ˚꩜｡
 
-## I'm a developer focused on building scalable applications, writing clean code, and continuously trying to expand my technical toolkit. I adore the logic of programming and the creativity of software design.
-
-### ⚔️ CHECK OUT MY NEW THING
-I just finished building **MindClash**—an intense, arcade-style adversarial debate arena where you fight aggressive AI personas who refuse to agree with you. It uses a parallel dual-agent architecture (Gemini API) and is designed to destroy chatbot sycophancy. 
-👉 [**Enter the Arena (Live Demo)**](https://mind-clash-livid.vercel.app/) | [**View the Repository**](https://github.com/anushkasingh-code/mindclash)
+🎓 Computer Science student  
+💡 Interested in Product Development, AI, NLP, and the intersection of psychology, UX, and social impact
 
 ---
 
-- 🔭 **Current Hyperfixation:** Building creative web setups and full-stack projects.
-- 🌱 **Learning:** Deep-diving into Data Architecture and creative coding.
-- 💬 **Ask me about:** Interactive web stuff or whatever random AI project I'm currently really fascinated with.
-- 🎯 **Vibe:** Translating dense concepts into interactive creative projects and avoiding robot culture at all costs.
+## What I worked on
 
-📬 **Reach out:** anushkaasingh1402@gmail.com
+### ⚔️ MindClash
+Adversarial AI debate arena designed to challenge chatbot sycophancy and stress-test arguments through aggressive, unbiased critique
+Check it out: https://mind-clash-livid.vercel.app/  ||    https://github.com/anushkasingh-code/MindClash
 
+**Tech:** Next.js, TypeScript, Gemini API
 
+### 🌱 Currently Exploring
+Projects around AI pipelines, interactive systems, and building tech that feels genuinely useful to people
+
+---
+
+## 💡 Technical Interests
+
+- ⋆ Human-Centered AI & Responsible AI
+- ⋆ Natural Language Processing (NLP)
+- ⋆ Human–AI interaction
+- ⋆ Thoughtful UX + technology that changes how people think, learn, or engage
+- ⋆ Full-stack development for interactive experiences
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+Python • TypeScript • C • CSS • Git
+
+### Frameworks & Development
+Next.js • React • Node.js • REST APIs
+
+### Currently Learning / Exploring
+LLMs • AI Systems • Data Architecture 
+
+---
+
+## ⟡ Things I Care About
+
+Building technology that feels useful, thoughtful, and meaningfully human-centered.
+
+⨳ Reach me: **anushkaasingh1402@gmail.com**
