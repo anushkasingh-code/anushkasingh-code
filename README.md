@@ -25,11 +25,3 @@ Next.js • React • Node.js • REST APIs
 
 ### Currently Learning / Exploring
 LLMs • AI Systems • Data Architecture 
-
----
-
-## ⟡ Things I Care About
-
-Building technology that feels useful, thoughtful, and meaningfully human-centered.
-
-⨳ Reach me: **anushkaasingh1402@gmail.com**
